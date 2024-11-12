@@ -6,7 +6,7 @@
 
 <p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
 
-- 🔭 I’m currently working on **Face recognition using deep learning models**
+- 🔭 I’m currently working on **Face recognition using deep learning models.**
 
 - 🌱 I’m currently learning **App development and API generator.**
 
